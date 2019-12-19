@@ -10,9 +10,16 @@ class Arithmetic : Maths
 	public int sub(int a,int b){
 	return a-b;
 	}
+
 	int add(int iNo1 , int iNo2)
 	{
 		return iNo1 + iNo2;
+	}
+	
+	int add(int iNo1 , int iNo2)
+	{
+		int iSum = iNo1 + iNo2;
+		return iSum;
 	}	
 }
 
