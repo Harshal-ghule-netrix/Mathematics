@@ -4,3 +4,7 @@ interface Maths
 	int sub(int,int);
 }
 
+class Arithmetic : Maths
+{
+	
+}
